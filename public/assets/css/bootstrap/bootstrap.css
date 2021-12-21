@@ -7264,7 +7264,7 @@ a.close.disabled
 {
     display: flex;
 
-    padding: 1rem 1rem;
+    padding: 1rem;
 
     border-bottom: 1px solid #dee2e6;
     border-top-left-radius: calc(.3rem - 1px);
@@ -7276,7 +7276,7 @@ a.close.disabled
 .modal-header .close
 {
     margin: -1rem -1rem -1rem auto; 
-    padding: 1rem 1rem;
+    padding: 1rem;
 }
 
 .modal-title
@@ -7649,7 +7649,7 @@ a.close.disabled
 {
     top: 0;
 
-    border-width: 0 .5rem .5rem .5rem;
+    border-width: 0 .5rem .5rem;
     border-bottom-color: rgba(0, 0, 0, .25);
 }
 .bs-popover-bottom > .arrow::after,
@@ -7657,7 +7657,7 @@ a.close.disabled
 {
     top: 1px;
 
-    border-width: 0 .5rem .5rem .5rem;
+    border-width: 0 .5rem .5rem;
     border-bottom-color: #fff;
 }
 .bs-popover-bottom .popover-header::before,

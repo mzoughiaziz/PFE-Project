@@ -5767,7 +5767,7 @@ input[type='button'].btn-block
 
     display: flex;
 
-    padding: 1rem 1rem; 
+    padding: 1rem; 
 
     flex-wrap: wrap;
     align-items: center;
@@ -7383,7 +7383,7 @@ a.badge:focus
 
     display: block;
 
-    padding: 1rem 1rem;
+    padding: 1rem;
 
     border: 1px solid #e9ecef; 
     background-color: #fff;
@@ -8412,7 +8412,7 @@ a.close.disabled
 {
     top: 0;
 
-    border-width: 0 .5rem .5rem .5rem;
+    border-width: 0 .5rem .5rem;
     border-bottom-color: transparent;
 }
 .bs-popover-bottom > .arrow::after,
@@ -8420,7 +8420,7 @@ a.close.disabled
 {
     top: 1px;
 
-    border-width: 0 .5rem .5rem .5rem;
+    border-width: 0 .5rem .5rem;
     border-bottom-color: #fff;
 }
 .bs-popover-bottom .popover-header::before,
@@ -21354,7 +21354,7 @@ textarea[resize='horizontal']
 
 .nav-open .sidenav
 {
-    transform: translateX(0px);
+    transform: translateX(0);
 }
 
 .nav-open .sidenav-toggler-inner .sidenav-toggler-line:first-child
@@ -21375,7 +21375,7 @@ textarea[resize='horizontal']
 {
     padding-top: 0;
 
-    border-width: 0 0 1px 0;
+    border-width: 0 0 1px;
     border-style: solid;
     box-shadow: 0 0 2rem 0 rgba(136, 152, 170, .15);
 }
@@ -24759,7 +24759,7 @@ button.section-darker:focus
 {
     0%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
     50%
     {
@@ -24767,7 +24767,7 @@ button.section-darker:focus
     }
     100%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
 }
 
@@ -24775,7 +24775,7 @@ button.section-darker:focus
 {
     0%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
     50%
     {
@@ -24783,7 +24783,7 @@ button.section-darker:focus
     }
     100%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
 }
 
@@ -24791,7 +24791,7 @@ button.section-darker:focus
 {
     0%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
     50%
     {
@@ -24799,7 +24799,7 @@ button.section-darker:focus
     }
     100%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
 }
 

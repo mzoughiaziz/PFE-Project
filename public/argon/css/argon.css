@@ -5242,7 +5242,7 @@ input[type='button'].btn-block
 
     display: flex;
 
-    padding: 1rem 1rem; 
+    padding: 1rem; 
 
     flex-wrap: wrap;
     align-items: center;
@@ -6715,7 +6715,7 @@ input[type='button'].btn-block
     display: block;
 
     margin-bottom: -1px;
-    padding: 1rem 1rem;
+    padding: 1rem;
 
     border: 1px solid #e9ecef; 
     background-color: #fff;
@@ -7516,7 +7516,7 @@ button.close
 .bs-popover-bottom .arrow::after,
 .bs-popover-auto[x-placement^='bottom'] .arrow::after
 {
-    border-width: 0 .75rem .75rem .75rem;
+    border-width: 0 .75rem .75rem;
 }
 .bs-popover-bottom .arrow::before,
 .bs-popover-auto[x-placement^='bottom'] .arrow::before
@@ -15607,7 +15607,7 @@ button.section-darker:focus
 {
     0%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
     50%
     {
@@ -15615,7 +15615,7 @@ button.section-darker:focus
     }
     100%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
 }
 
@@ -15623,7 +15623,7 @@ button.section-darker:focus
 {
     0%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
     50%
     {
@@ -15631,7 +15631,7 @@ button.section-darker:focus
     }
     100%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
 }
 
@@ -15639,7 +15639,7 @@ button.section-darker:focus
 {
     0%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
     50%
     {
@@ -15647,7 +15647,7 @@ button.section-darker:focus
     }
     100%
     {
-        transform: translateY(0px);
+        transform: translateY(0);
     }
 }
 
@@ -19122,7 +19122,7 @@ textarea[resize='horizontal']
 }
 .navbar-vertical .navbar
 {
-    border-width: 0 0 1px 0;
+    border-width: 0 0 1px;
     border-style: solid;
 }
 .navbar-vertical .navbar-light
@@ -19356,7 +19356,7 @@ textarea[resize='horizontal']
     margin-left: -1.5rem;
     padding-top: 1rem;
     padding-right: 1.5rem;
-    padding-bottom: 0rem;
+    padding-bottom: 0;
     padding-left: 1.5rem;
 
     border-top: 1px solid #e9ecef;
@@ -19481,7 +19481,7 @@ textarea[resize='horizontal']
         margin-left: -1.5rem;
         padding-top: 1rem;
         padding-right: 1.5rem;
-        padding-bottom: 0rem;
+        padding-bottom: 0;
         padding-left: 1.5rem;
 
         border-top: 1px solid #e9ecef;
@@ -19607,7 +19607,7 @@ textarea[resize='horizontal']
         margin-left: -1.5rem;
         padding-top: 1rem;
         padding-right: 1.5rem;
-        padding-bottom: 0rem;
+        padding-bottom: 0;
         padding-left: 1.5rem;
 
         border-top: 1px solid #e9ecef;
@@ -19733,7 +19733,7 @@ textarea[resize='horizontal']
         margin-left: -1.5rem;
         padding-top: 1rem;
         padding-right: 1.5rem;
-        padding-bottom: 0rem;
+        padding-bottom: 0;
         padding-left: 1.5rem;
 
         border-top: 1px solid #e9ecef;
@@ -19859,7 +19859,7 @@ textarea[resize='horizontal']
         margin-left: -1.5rem;
         padding-top: 1rem;
         padding-right: 1.5rem;
-        padding-bottom: 0rem;
+        padding-bottom: 0;
         padding-left: 1.5rem;
 
         border-top: 1px solid #e9ecef;

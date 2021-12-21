@@ -4,7 +4,7 @@
 
 .nav-open{
   .sidenav {
-      transform: translateX(0px);
+      transform: translateX(0);
     }
 
     .sidenav-toggler-inner{
@@ -21,7 +21,7 @@
 
 .navbar-vertical {
     padding-top: 0;
-    border-width: 0 0 1px 0;
+    border-width: 0 0 1px;
     border-style: solid;
     @if $enable-shadows {
         box-shadow: $navbar-vertical-box-shadow;
